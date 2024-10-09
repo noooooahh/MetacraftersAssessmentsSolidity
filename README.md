@@ -1,4 +1,4 @@
-# Metacrafters Solidty Assessment
+# Metacrafters Solidity Assessment
 
 This Solidity program is a simple program that allows minting and burning of tokens. This program was created as part of the assessment for Metacrafter's ETH Proof: Beginner EVM Course in order to explore the syntax and functionalities of the Solidity programming language.
 
